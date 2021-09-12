@@ -1,0 +1,45 @@
+
+.type-success{
+  background-color: green;
+  color : white;
+}
+.type-main{
+  background-color: rgb(231, 58, 145);
+  color : white;
+}
+.type-danger{
+  background-color: red;
+  color: white;
+}
+.type-warning{
+  background-color: yellow;
+}
+.type-text{
+  background-color: blue;
+  color : white;
+}
+.type-info{
+  background-color: rgb(105, 146, 179);
+  color : white;
+}
+.size-default{
+  height: 40px;
+  width: 80px;
+  font-size: 16px;
+}
+.size-small{
+  height: 30px;
+  width: 70px;
+  font-size: 13px;
+}
+.size-big{
+  height: 50px;
+  width: 90px;
+  font-size: 20px;
+}
+.shape-round{
+  border-radius: 50%;
+}
+.shape-capsule{
+  border-radius: 40px;
+}
